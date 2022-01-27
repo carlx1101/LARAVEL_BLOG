@@ -4,17 +4,14 @@
 ### Project Title  
 ### Project Description  
 
-
-
-  <img alt="Description" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-
+### Technologies & Framework
+<img alt="Description" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 
 ## How To Use It  
 
 ### Step 1 : Cloning the repository
 1. Clone the repository to your local machine  
-2. 
-
+2. Open it on any prefferable 
 
 ### Step 2 : Setup Commands
 1.
