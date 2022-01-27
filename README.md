@@ -16,9 +16,14 @@
 ```
 composer install 
 ```
-
-2. 
-
+2.
+```
+php artisan storage:link (user access storage directory)
+```
+3.
+```
+php artisan serve (run server)
+```
 ### References 
 Laravel 8 Documentation https://laravel.com/docs/8.x/readme  
 Travesy Media Laravel From Scratch Tutorial https://youtu.be/EU7PRmCpx-0
