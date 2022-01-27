@@ -6,6 +6,11 @@
 <img src="{https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white}" />
 
 
+<details>
+  <summary>Some summary</summary>
+  <img alt="Description" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+</details>
+
 ## How To Use It  
 
 ### Step 1 : Cloning the repository
