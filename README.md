@@ -14,11 +14,11 @@
 2. Open it on any prefferable 
 
 ### Step 2 : Setup Commands
-1. Installing all packages of new application 
+1. 
 ```
 composer install 
 ```
-2. Create a symbolic link from public/storage to storage/app/public
+2. symbolic link from public/storage to storage/app/public
 ```
 php artisan storage:link
 ```
