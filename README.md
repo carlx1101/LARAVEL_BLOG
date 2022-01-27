@@ -29,7 +29,7 @@ php artisan storage:link
 ```
 3. Run applications on the PHP development server
 ```
-php artisan serve (run server)
+php artisan serve
 ```
 
 ## User Manual
