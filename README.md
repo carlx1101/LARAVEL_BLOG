@@ -2,9 +2,10 @@
 
 ## Project's Information
 ### Project Title  
-Laravel Blogger 
+Laravel Blog - Blogger
 
 ### Project Description  
+
 
 ### Technologies & Framework
 
