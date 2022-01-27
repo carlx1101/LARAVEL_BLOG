@@ -11,8 +11,12 @@
 2. 
 
 
-### Step 2 : 
-1. Clone the repository to your local machine  
+### Step 2 : Setup Commands
+1.
+```
+composer install 
+```
+
 2. 
 
 ### References 
