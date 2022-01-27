@@ -14,15 +14,15 @@
 2. Open it on any prefferable 
 
 ### Step 2 : Setup Commands
-1. 
+1. Install all packages of new application (all mentioned in composer. json )
 ```
 composer install 
 ```
-2. symbolic link from public/storage to storage/app/public
+2. Symbolic link from public/storage to storage/app/public
 ```
 php artisan storage:link
 ```
-3. To run applications on the PHP development server
+3. Run applications on the PHP development server
 ```
 php artisan serve (run server)
 ```
